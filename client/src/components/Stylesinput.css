@@ -1,0 +1,10 @@
+.loginInput {
+  padding: 20px;
+  background-color: rgb(255, 255, 255);
+  border: solid rgb(204, 204, 204) 1px;
+  border-radius: 25px;
+}
+
+.myButton {
+  height: 180px;
+}

@@ -1,0 +1,35 @@
+.adminLogin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.admintitre {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+  color: black;
+}
+
+.inputcol {
+  border: solid 1px black;
+}
+
+.loginButton {
+  width: 250px;
+  color: white;
+  background-color: black;
+  height: 50px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.loginRegisterButton {
+  width: 250px;
+  color: white;
+  background-color: black;
+  height: 50px;
+  border-radius: 5px;
+  margin: 10px;
+}

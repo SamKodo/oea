@@ -1,0 +1,30 @@
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px;
+}
+
+.titre {
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 50;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+}
+
+.contenu {
+  width: 120vh;
+  margin: 0 auto;
+  margin-top: 150px;
+}
+
+.headStyle{
+  height: 300px;
+  background-color: rgb(57, 130, 248);
+  display: flex;
+  justify-content: center;
+
+}
