@@ -42,7 +42,7 @@ app.use("/api/users", userRoute);
 app.use("/api/posts", postRoute);
 app.use("/api/categories", categoryRoute);
 
-const port = 8000;
+const port = 5100;
 
 app.listen(port, () => {
   console.log("Admin Backend is Running.");
