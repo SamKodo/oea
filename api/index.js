@@ -11,7 +11,7 @@ const cors = require("cors");
 
 app.use(
   cors({
-    origin: "https://oea-api.onrender.com",
+    origin: "https://openengineeracademy.com",
   })
 );
 
