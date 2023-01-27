@@ -11,7 +11,7 @@ const cors = require("cors");
 
 app.use(
   cors({
-    origin: "https://openengineeracademy.com",
+    origin: "http://localhost:3000",
   })
 );
 
